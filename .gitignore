@@ -1,0 +1,8 @@
+# Ignora tutte le dipendenze Node
+node_modules/
+
+# Ignora la build del frontend
+frontend/build/
+
+# Ignora file con segreti
+.env
